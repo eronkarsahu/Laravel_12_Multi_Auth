@@ -2,9 +2,6 @@
 # Admin / Teacher / User (Login, Register and Dashboard page) 
 
 
-## YouTube Video (https://www.youtube.com/watch?v=LtzPygnIqn4)
-
-
 ## Laravel + Tailwind Css Starter Project with Multi-Auth (Admin / Teacher and User )
 - Admin login ( http://localhost:8000/admin/login )
 - Teacher login and register (http://localhost:8000/teacher/login )
